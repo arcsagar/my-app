@@ -1,7 +1,7 @@
 const Sub = () => {
     return (
         <div>
-            <p> This is Sub Component</p>
+            <p> 2This is Sub Component 1</p>
         </div>
     )
 };
